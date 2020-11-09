@@ -22,7 +22,9 @@
 
 4. Clean up the juliet directory and grab the newest source files from github
     `cd juliet`
+    
     `rm -r java_lib`
+    
     `git clone https://github.com/ShigeruYoshida/JULIeT.git java_lib`
 
 5. Go back to $I3_BASE and make a build directory
