@@ -11,9 +11,13 @@
 
 3. Go to source directory and check out the relevant EHE projects (more might be added in the future)
     `cd src`
+    
     `svn co http://code.icecube.wisc.edu/svn/projects/c2j-icetray/trunk c2j-icetray`
+    
     `svn co http://code.icecube.wisc.edu/svn/projects/juliet/trunk juliet`
+    
     `svn co http://code.icecube.wisc.edu/svn/projects/juliet-interface/trunk juliet-interface`
+    
     `svn co http://code.icecube.wisc.edu/svn/projects/weighting-module/trunk weighting-module`
 
 4. Clean up the juliet directory and grab the newest source files from github
