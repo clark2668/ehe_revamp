@@ -1,6 +1,7 @@
 ### EHE metaproject installation instruction
 
 0. First get your python version from cvmfs.
+     
     ` eval `/cvmfs/icecube.opensciencegrid.org/py3-v4.0.1/setup.sh` `
 
 1. Create a folder for your installation, lets call it $I3_BASE. You can set it in your bash by running `export I3_BASE=/your/fav/path`.
